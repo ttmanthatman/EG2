@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vcs-bg: #0B0F19;
+  --color-vcs-canvas: #080C14;
+  --color-vcs-card: #121827;
+  --color-vcs-border: #243044;
+  --color-vcs-text: #F5F0E8;
+  --color-vcs-text-secondary: #A7B0C0;
+  --color-vcs-text-muted: #6B7280;
+  --color-vcs-gold: #C8A45D;
+  --color-vcs-accent: #7C8CFF;
+  --color-vcs-success: #34D399;
+  --color-vcs-error: #F87171;
+  --color-vcs-warning: #FBBF24;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0; padding: 0;
+  background: #0B0F19; color: #F5F0E8;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  overflow: hidden; height: 100%;
+}
+
+.react-flow__node { font-family: "Inter", system-ui, sans-serif; }
+.react-flow__handle { opacity: 0.6; }
+.react-flow__edge-path { stroke-width: 1.5; }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #243044; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #374662; }
+
+::selection { background: rgba(200, 164, 93, 0.3); color: #F5F0E8; }
