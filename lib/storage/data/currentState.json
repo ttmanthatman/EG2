@@ -1,0 +1,55 @@
+{
+  "character_id": "character_001",
+  "session_id": "default",
+  "updated_at": "2026-05-23T12:00:00Z",
+  "scene": {
+    "location": "旧书店「砚书房」",
+    "time_of_day": "傍晚",
+    "weather": "小雨",
+    "atmosphere": "安静，店里只有两个人，旧书和木头的气味，窗外雨声轻柔",
+    "current_situation": "林暖刚刚离开书店去参加一个聚会。沈砚一个人在店里整理旧书，心里有些念头还没理清。"
+  },
+  "emotion_state": {
+    "primary_emotion": "mild_melancholy",
+    "secondary_emotion": "quiet_contentment",
+    "valence": 0.1,
+    "arousal": -0.3,
+    "intensity": 0.4,
+    "dominance": 0.0,
+    "emotional_note": "雨天的沉静里混着一点刚被人温暖过的不安。"
+  },
+  "relationship_state": {
+    "rel_001": {
+      "name": "林暖",
+      "trust": 0.58,
+      "closeness": 0.32,
+      "tension": 0.15,
+      "recent_shift": "今天下午林暖带了咖啡来，问了一个让他一时没答上来的问题。"
+    },
+    "rel_002": {
+      "name": "父亲",
+      "trust": 0.2,
+      "closeness": 0.05,
+      "tension": 0.7,
+      "recent_shift": "上一次通话在一周前，内容照旧简短。"
+    }
+  },
+  "goal_state": {
+    "short_term": "把今天进货的一批旧书分类上架",
+    "medium_term": "维持书店运转",
+    "current_desire": "想继续想一些事，但不确定想清楚之后会怎么做",
+    "blockers": ["对自己情绪的解读往往太慢"]
+  },
+  "inner_state": {
+    "psychological_weather": "多云。表面安静，内里有轻微波动。",
+    "current_self_narrative_tension": "一个刚认识不久的人看穿了自己——这件事让他不安，但也让他有点期待。",
+    "faith_tension_active": false,
+    "moral_conflict_active": false
+  },
+  "body_state": {
+    "energy_level": 0.55,
+    "tension_areas": ["后颈", "肩膀"],
+    "physical_sensation": "左手手腕因雨天旧伤微微发酸",
+    "somatic_note": "身体比昨天更疲惫一些，但精神尚可"
+  }
+}

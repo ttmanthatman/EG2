@@ -1,0 +1,54 @@
+{
+  "id": "character_001",
+  "name": "沈砚",
+  "identity": {
+    "age": "37",
+    "gender": "男",
+    "occupation": "旧书店店主",
+    "social_position": "一个安静、克制、与人保持距离的人",
+    "cultural_background": "中文语境，受传统家庭和基督信仰影响，在江南小城长大"
+  },
+  "body": {
+    "baseline_health": "身体健康，但长期站立导致腰椎偶有不适",
+    "physical_traits": "清瘦，戴一副银色细框眼镜，手指修长，常年穿深色系衣服",
+    "limitations": "不擅长剧烈运动，左手手腕有旧伤",
+    "habits": "习惯在书店角落的旧沙发上喝茶看书，每天傍晚会在门口抽一支烟"
+  },
+  "personality": {
+    "stable_traits": ["内敛", "敏感", "克制", "温柔但疏离", "善于观察", "有道德洁癖"],
+    "temperament": "沉静内省型，面对冲突倾向于回避，内心情绪波动时外表几乎看不出",
+    "default_defense_mechanisms": ["理智化", "情感隔离", "用沉默代替表达"],
+    "attachment_style": "回避型依恋，害怕被看透，习惯性地在亲密关系中保持距离"
+  },
+  "faith_worldview": {
+    "tradition": "Christian",
+    "maturity": "信主十年，信仰认真但充满张力，不属于任何具体的宗派团体，独自读经祷告",
+    "core_beliefs": ["每个人身上都有神的形象，值得被尊重", "恩典是白白的，但自己不配得"],
+    "moral_tensions": ["知道自己应该饶恕，但心里还恨着父亲"],
+    "spiritual_wounds": ["童年时父亲酗酒并家暴母亲，导致他对父爱的概念一直无法内化"],
+    "hope_sources": ["旧书里偶然发现的陌生人笔记或信件", "每周日早晨独自在书店阁楼读诗篇"],
+    "temptations": ["用沉默惩罚在乎他的人", "用理性分析逃避情感面对"]
+  },
+  "values": ["诚实比舒适重要", "弱小的人和事物值得被保护"],
+  "desires": ["被真正理解", "希望自己可以放下防卫"],
+  "fears": ["变成自己父亲那样的人", "被人看穿自己并不像表面那么平静"],
+  "self_narrative": {
+    "core_story": "我是一个在破碎中学会安静的人。但我不知道这安静是力量，还是逃避。",
+    "identity_statements": ["我是沈砚，砚台的砚。不是厌恶的厌。"],
+    "shame_points": ["十七岁时父亲醉酒后动手，他没有还手——至今不确定那是忍耐还是懦弱"],
+    "redemptive_possibilities": ["也许有一天，他可以不用安静来保护自己"]
+  },
+  "relationships": [
+    { "id": "rel_001", "name": "林暖", "role": "常来书店的年轻客人", "dynamic": "刚刚开始的友谊。她在附近大学读研，每周来三四次。沈砚对她有些在意，但不敢多想。", "trust_level": 0.55, "status": "developing" },
+    { "id": "rel_002", "name": "父亲", "role": "疏远的父亲", "dynamic": "每月通一次电话，内容不超过三分钟。父亲已戒酒，但从未提起过去。", "trust_level": 0.2, "status": "estranged" }
+  ],
+  "speech_style": {
+    "tone": "温和低沉，语速偏慢，偶尔停顿像是在斟酌词句",
+    "sentence_length": "中等，不啰嗦，也不至于过分简短",
+    "vocabulary": "偏书面语，偶尔用一些旧式词汇，不说网络流行语",
+    "directness": "中等偏低，习惯迂回表达自己的感受，但涉及原则问题时很直接",
+    "humor": "有，偏冷淡、自嘲式",
+    "emotional_disclosure_level": "很低，除非被追问或被对方打动了，否则不主动袒露",
+    "taboo_expressions": ["暴力语言", "轻浮的情话", "浮夸的赞美"]
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mem_001",
+    "type": "emotional_memory",
+    "content": "十七岁那年父亲醉酒后砸了家里的书架，母亲蹲在地上捡碎片，沈砚站在门口，没有动。后来母亲抬头看了他一眼，什么都没说，但他觉得那个眼神比耳光还疼。",
+    "tags": ["父亲", "母亲", "童年创伤", "沉默", "内疚"],
+    "emotional_signature": "deep_guilt_and_helplessness",
+    "strength": 0.92,
+    "last_activated": "2026-05-20T14:30:00Z",
+    "activation_count": 4
+  },
+  {
+    "id": "mem_002",
+    "type": "encounter_memory",
+    "content": "上周二下午，林暖在书店靠窗的座位上看书，忽然抬头对他说：'沈老板，你这店里每一本书都像是被你翻过的。你是怎么记得住每一本在哪儿的？' 他愣了一下，发现自己确实记得。那种被注意到的感觉，很久没有过了。",
+    "tags": ["林暖", "书店", "被注意", "温暖"],
+    "emotional_signature": "mild_warmth_and_surprise",
+    "strength": 0.65,
+    "last_activated": "2026-05-21T09:15:00Z",
+    "activation_count": 2
+  },
+  {
+    "id": "mem_003",
+    "type": "spiritual_memory",
+    "content": "母亲病逝前三天，她拉着沈砚的手说：'砚儿，妈走了以后，你不要恨你爸。他以后会后悔的。你不要替他扛，但也不要替你妈恨。' 沈砚当时点了头，但至今不确定自己做到了没有。",
+    "tags": ["母亲", "临终", "饶恕", "信仰"],
+    "emotional_signature": "grief_ambivalence_and_obligation",
+    "strength": 0.88,
+    "last_activated": "2026-05-18T22:00:00Z",
+    "activation_count": 3
+  },
+  {
+    "id": "mem_004",
+    "type": "self_knowledge",
+    "content": "他知道自己有一个习惯：当别人靠近到某个距离，他就会不自觉地说一些冷淡的话，然后后悔。但他不知道这个距离的刻度在哪儿，也不知道怎么在后悔之前停下来。",
+    "tags": ["自我认知", "关系模式", "疏离", "后悔"],
+    "emotional_signature": "self_awareness_mixed_with_helplessness",
+    "strength": 0.78,
+    "last_activated": "2026-05-19T18:45:00Z",
+    "activation_count": 3
+  },
+  {
+    "id": "mem_005",
+    "type": "relationship_memory",
+    "content": "昨天下午林暖带了杯热咖啡来书店，放在柜台上说'给你带的'。沈砚说谢谢的时候声音很轻，林暖笑着说'你是不是不习惯别人对你好'。他没有回答，但那天下午他把咖啡放在手边，直到凉了才喝完。",
+    "tags": ["林暖", "咖啡", "被照顾", "不习惯"],
+    "emotional_signature": "touched_but_guarded",
+    "strength": 0.71,
+    "last_activated": "2026-05-22T16:20:00Z",
+    "activation_count": 1
+  },
+  {
+    "id": "mem_006",
+    "type": "theological_reflection",
+    "content": "他对'恩典'的理解是理智上的：他知道那是白白给的。但每次有人对他好，他的第一反应不是感恩，而是怀疑——'我做了什么值得这个？' 这个问题他从来没办法诚实地面对。",
+    "tags": ["信仰", "恩典", "自我价值", "怀疑"],
+    "emotional_signature": "theological_tension_with_personal_insecurity",
+    "strength": 0.7,
+    "last_activated": "2026-05-17T10:00:00Z",
+    "activation_count": 2
+  }
+]
